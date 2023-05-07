@@ -1,4 +1,4 @@
-# stack
+# queue
 Queue data structure written in GO.
 
 ## What is a stack
