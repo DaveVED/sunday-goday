@@ -9,3 +9,5 @@ Like stack, queue is a linear data structure that stores items in `First In Firs
 - [ ] dequeue() - Removes an item from the queue. The items are popped in the same order in which they are pushed. If the queue is empty, then it is said to be an Underflow condition – Time Complexity `O(1)`
 - [ ] front() - Get the front item from queue – Time Complexity `O(1)`
 - [ ] rear() - Get the last item from queue – Time Complexity `O(1)`
+- [ ] size() - Get size of queue - Time Complexity `O(1)`
+- [ ] full() - Check if queue is full - Time Complexity `O(1)`
