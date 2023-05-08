@@ -4,4 +4,4 @@ random `GO` data structure/algorithm. Contribuitng every sunday to keep up on sk
 ## Currently Implemented
 
 - [x] Stack
-- [ ] Queue
+- [x] Queue
